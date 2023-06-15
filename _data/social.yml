@@ -4,10 +4,10 @@ email_address:
 behance:
 bitbucket:
 dribbble:
-facebook:
+facebook: https://www.facebook.com/Patrigan
 flickr:
 gitlab:
-github:
+github: patrigan
 instagram:
 keybase:
 linkedin:
@@ -21,9 +21,9 @@ tumblr:
 twitter:
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
-tiktok:
+youtube: UC_cNuPhmyGZudmDaDigLhVg  # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+twitch: patrigan
+tiktok: patrigan0
 
 # Share button options
 share:
